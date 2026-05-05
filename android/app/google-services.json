@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "77665692902",
+    "project_id": "clinicadental-97531",
+    "storage_bucket": "clinicadental-97531.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77665692902:android:9c764fd1bd2d1ac3b4df27",
+        "android_client_info": {
+          "package_name": "com.example.smile_center"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77665692902-nsvpapnhtc33um7dpno47062901pu1jk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaTAvVSDIWTvMBcHg5qMd9PkbNRcqnnXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77665692902-nsvpapnhtc33um7dpno47062901pu1jk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
